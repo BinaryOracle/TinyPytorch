@@ -6,16 +6,11 @@
 
 ## CHAPTER-2
 
-[🚀 从零构建深度学习框架（一）：计算图与自动微分的起点](https://binaryoracle.github.io/open_projects/TinyPytorch/)
+[🧮 从零构建深度学习框架（二）：自动反向传播与计算图进阶](https://binaryoracle.github.io/open_projects/TinyPytorch/2.%E7%94%A8%E8%87%AA%E7%84%B6%E7%9A%84%E4%BB%A3%E7%A0%81%E8%A1%A8%E8%BE%BE.html)
 
 ## CHAPTER-3
 
-[🚀 从零构建深度学习框架（一）：计算图与自动微分的起点](https://binaryoracle.github.io/open_projects/TinyPytorch/)
-
 ## CHAPTER-4
-
-[🚀 从零构建深度学习框架（一）：计算图与自动微分的起点](https://binaryoracle.github.io/open_projects/TinyPytorch/)
 
 ## CHAPTER-5
 
-[🚀 从零构建深度学习框架（一）：计算图与自动微分的起点](https://binaryoracle.github.io/open_projects/TinyPytorch/)
